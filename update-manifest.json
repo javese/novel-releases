@@ -1,0 +1,7 @@
+{
+    "versionCode":  8,
+    "versionName":  "1.1.5",
+    "releaseNotes":  "OTA 默认通过 gh-proxy.org 获取 GitHub 更新清单和安装包。",
+    "apkUrl":  "https://gh-proxy.org/https://github.com/javese/novel-releases/releases/download/v1.1.5/Shiye-debug.apk",
+    "sha256":  "8cc2c691ce770d096ab5ed6f5623c34f7d29c4c5372c35fc8e466bcaa7b89edf"
+}

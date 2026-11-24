@@ -1,7 +1,7 @@
 {
-    "versionCode":  10,
-    "versionName":  "1.1.7",
-    "releaseNotes":  "新增番茄官网搜索入口，并校验官网章节字数以避免将截断正文保存为完整章节。",
-    "apkUrl":  "https://gh-proxy.org/https://github.com/javese/novel-releases/releases/download/v1.1.7/Shiye-debug.apk",
-    "sha256":  "5c79224ae4d826db379c0361f79f2f3d7b5d51a68913744ef6e8bcf75c31de79"
+    "versionCode":  11,
+    "versionName":  "1.1.8",
+    "releaseNotes":  "移除番茄账号登录、官方书架和官方书城。保留本地书架与公开搜索和阅读。",
+    "apkUrl":  "https://gh-proxy.org/https://github.com/javese/novel-releases/releases/download/v1.1.8/Shiye-debug.apk",
+    "sha256":  "c88a1c67fe180faadfe199d96dab3f15e8c4f87e610616ce6a7f88792bc13cf6"
 }

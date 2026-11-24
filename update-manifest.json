@@ -1,7 +1,7 @@
 {
-    "versionCode":  9,
-    "versionName":  "1.1.6",
-    "releaseNotes":  "官网账号可访问完整章节时，可从官网阅读页使用本机分页。OTA 清单和 APK 继续通过 gh-proxy.org 提供。",
-    "apkUrl":  "https://gh-proxy.org/https://github.com/javese/novel-releases/releases/download/v1.1.6/Shiye-debug.apk",
-    "sha256":  "02c1a45bb6f833e829629fd80595950e87514b4876f573eb2f50b6a17e687943"
+    "versionCode":  10,
+    "versionName":  "1.1.7",
+    "releaseNotes":  "新增番茄官网搜索入口，并校验官网章节字数以避免将截断正文保存为完整章节。",
+    "apkUrl":  "https://gh-proxy.org/https://github.com/javese/novel-releases/releases/download/v1.1.7/Shiye-debug.apk",
+    "sha256":  "5c79224ae4d826db379c0361f79f2f3d7b5d51a68913744ef6e8bcf75c31de79"
 }
